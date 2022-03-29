@@ -73,8 +73,8 @@ func IsSecretKeyValid(secretKey string) bool {
 
 // Default access and secret keys.
 const (
-	DefaultAccessKey = "minioadmin"
-	DefaultSecretKey = "minioadmin"
+	DefaultAccessKey = "newuser"
+	DefaultSecretKey = "newuser"
 )
 
 // Default access credentials
