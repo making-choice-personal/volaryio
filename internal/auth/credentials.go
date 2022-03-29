@@ -73,8 +73,8 @@ func IsSecretKeyValid(secretKey string) bool {
 
 // Default access and secret keys.
 const (
-	DefaultAccessKey = "newuser"
-	DefaultSecretKey = "newuser"
+	DefaultAccessKey = "newusernewuser"
+	DefaultSecretKey = "newusernewuser"
 )
 
 // Default access credentials
